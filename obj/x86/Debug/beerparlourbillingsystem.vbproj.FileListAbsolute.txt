@@ -1,0 +1,74 @@
+C:\WALTER\CODE\VB.NET PROJECTS\beerparlourbillingsystem\beerparlourbillingsystem\bin\Debug\beerparlourbillingsystem.exe
+C:\WALTER\CODE\VB.NET PROJECTS\beerparlourbillingsystem\beerparlourbillingsystem\bin\Debug\beerparlourbillingsystem.pdb
+C:\WALTER\CODE\VB.NET PROJECTS\beerparlourbillingsystem\beerparlourbillingsystem\bin\Debug\beerparlourbillingsystem.xml
+C:\WALTER\CODE\VB.NET PROJECTS\beerparlourbillingsystem\beerparlourbillingsystem\obj\x86\Debug\beerparlourbillingsystem.Login.resources
+C:\WALTER\CODE\VB.NET PROJECTS\beerparlourbillingsystem\beerparlourbillingsystem\obj\x86\Debug\beerparlourbillingsystem.Splashscreen.resources
+C:\WALTER\CODE\VB.NET PROJECTS\beerparlourbillingsystem\beerparlourbillingsystem\obj\x86\Debug\beerparlourbillingsystem.main.resources
+C:\WALTER\CODE\VB.NET PROJECTS\beerparlourbillingsystem\beerparlourbillingsystem\obj\x86\Debug\beerparlourbillingsystem.Resources.resources
+C:\WALTER\CODE\VB.NET PROJECTS\beerparlourbillingsystem\beerparlourbillingsystem\obj\x86\Debug\beerparlourbillingsystem.vbproj.GenerateResource.Cache
+C:\WALTER\CODE\VB.NET PROJECTS\beerparlourbillingsystem\beerparlourbillingsystem\obj\x86\Debug\beerparlourbillingsystem.exe
+C:\WALTER\CODE\VB.NET PROJECTS\beerparlourbillingsystem\beerparlourbillingsystem\obj\x86\Debug\beerparlourbillingsystem.xml
+C:\WALTER\CODE\VB.NET PROJECTS\beerparlourbillingsystem\beerparlourbillingsystem\obj\x86\Debug\beerparlourbillingsystem.pdb
+C:\WALTER\CODE\VB.NET PROJECTS\beerparlourbillingsystem\beerparlourbillingsystem\obj\x86\Debug\beerparlourbillingsystem.addproduct.resources
+C:\WALTER\CODE\VB.NET PROJECTS\beerparlourbillingsystem\beerparlourbillingsystem\obj\x86\Debug\beerparlourbillingsystem.billing.resources
+C:\WALTER\CODE\VB.NET PROJECTS\beerparlourbillingsystem\beerparlourbillingsystem\obj\x86\Debug\beerparlourbillingsystem.receipt.resources
+C:\WALTER\CODE\VB.NET PROJECTS\beerparlourbillingsystem\beerparlourbillingsystem\obj\x86\Debug\beerparlourbillingsystem.Database.resources
+C:\WALTER\CODE\VB.NET PROJECTS\beerparlourbillingsystem\beerparlourbillingsystem\obj\x86\Debug\beerparlourbillingsystem.adduser.resources
+C:\WALTER\VB.NET PROJECTS\beerparlourbillingsystem\beerparlourbillingsystem\obj\x86\Debug\beerparlourbillingsystem.exe
+C:\WALTER\VB.NET PROJECTS\beerparlourbillingsystem\beerparlourbillingsystem\obj\x86\Debug\beerparlourbillingsystem.xml
+C:\WALTER\VB.NET PROJECTS\beerparlourbillingsystem\beerparlourbillingsystem\obj\x86\Debug\beerparlourbillingsystem.pdb
+C:\WALTER\VB.NET PROJECTS\beerparlourbillingsystem\beerparlourbillingsystem\bin\Debug\beerparlourbillingsystem.exe
+C:\WALTER\VB.NET PROJECTS\beerparlourbillingsystem\beerparlourbillingsystem\bin\Debug\beerparlourbillingsystem.pdb
+C:\WALTER\VB.NET PROJECTS\beerparlourbillingsystem\beerparlourbillingsystem\bin\Debug\beerparlourbillingsystem.xml
+C:\WALTER\VB.NET PROJECTS\beerparlourbillingsystem\beerparlourbillingsystem\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\WALTER\VB.NET PROJECTS\beerparlourbillingsystem\beerparlourbillingsystem\obj\x86\Debug\beerparlourbillingsystem.Database.resources
+C:\WALTER\VB.NET PROJECTS\beerparlourbillingsystem\beerparlourbillingsystem\obj\x86\Debug\beerparlourbillingsystem.adduser.resources
+C:\WALTER\VB.NET PROJECTS\beerparlourbillingsystem\beerparlourbillingsystem\obj\x86\Debug\beerparlourbillingsystem.addproduct.resources
+C:\WALTER\VB.NET PROJECTS\beerparlourbillingsystem\beerparlourbillingsystem\obj\x86\Debug\beerparlourbillingsystem.billing.resources
+C:\WALTER\VB.NET PROJECTS\beerparlourbillingsystem\beerparlourbillingsystem\obj\x86\Debug\beerparlourbillingsystem.Login.resources
+C:\WALTER\VB.NET PROJECTS\beerparlourbillingsystem\beerparlourbillingsystem\obj\x86\Debug\beerparlourbillingsystem.Splashscreen.resources
+C:\WALTER\VB.NET PROJECTS\beerparlourbillingsystem\beerparlourbillingsystem\obj\x86\Debug\beerparlourbillingsystem.main.resources
+C:\WALTER\VB.NET PROJECTS\beerparlourbillingsystem\beerparlourbillingsystem\obj\x86\Debug\beerparlourbillingsystem.Resources.resources
+C:\WALTER\VB.NET PROJECTS\beerparlourbillingsystem\beerparlourbillingsystem\obj\x86\Debug\beerparlourbillingsystem.receipt.resources
+C:\WALTER\VB.NET PROJECTS\beerparlourbillingsystem\beerparlourbillingsystem\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\WALTER\VB.NET PROJECTS\beerparlourbillingsystem\beerparlourbillingsystem\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\sir walter\Vb.net Research Projects\beerparlourbillingsystem\beerparlourbillingsystem\obj\x86\Debug\beerparlourbillingsystem.exe
+C:\sir walter\Vb.net Research Projects\beerparlourbillingsystem\beerparlourbillingsystem\obj\x86\Debug\beerparlourbillingsystem.xml
+C:\sir walter\Vb.net Research Projects\beerparlourbillingsystem\beerparlourbillingsystem\obj\x86\Debug\beerparlourbillingsystem.pdb
+C:\sir walter\Vb.net Research Projects\beerparlourbillingsystem\beerparlourbillingsystem\bin\Debug\beerparlourbillingsystem.exe
+C:\sir walter\Vb.net Research Projects\beerparlourbillingsystem\beerparlourbillingsystem\bin\Debug\beerparlourbillingsystem.pdb
+C:\sir walter\Vb.net Research Projects\beerparlourbillingsystem\beerparlourbillingsystem\bin\Debug\beerparlourbillingsystem.xml
+C:\sir walter\Vb.net Research Projects\beerparlourbillingsystem\beerparlourbillingsystem\obj\x86\Debug\beerparlourbillingsystem.Database.resources
+C:\sir walter\Vb.net Research Projects\beerparlourbillingsystem\beerparlourbillingsystem\obj\x86\Debug\beerparlourbillingsystem.adduser.resources
+C:\sir walter\Vb.net Research Projects\beerparlourbillingsystem\beerparlourbillingsystem\obj\x86\Debug\beerparlourbillingsystem.addproduct.resources
+C:\sir walter\Vb.net Research Projects\beerparlourbillingsystem\beerparlourbillingsystem\obj\x86\Debug\beerparlourbillingsystem.billing.resources
+C:\sir walter\Vb.net Research Projects\beerparlourbillingsystem\beerparlourbillingsystem\obj\x86\Debug\beerparlourbillingsystem.Login.resources
+C:\sir walter\Vb.net Research Projects\beerparlourbillingsystem\beerparlourbillingsystem\obj\x86\Debug\beerparlourbillingsystem.Splashscreen.resources
+C:\sir walter\Vb.net Research Projects\beerparlourbillingsystem\beerparlourbillingsystem\obj\x86\Debug\beerparlourbillingsystem.main.resources
+C:\sir walter\Vb.net Research Projects\beerparlourbillingsystem\beerparlourbillingsystem\obj\x86\Debug\beerparlourbillingsystem.Resources.resources
+C:\sir walter\Vb.net Research Projects\beerparlourbillingsystem\beerparlourbillingsystem\obj\x86\Debug\beerparlourbillingsystem.receipt.resources
+C:\sir walter\Vb.net Research Projects\beerparlourbillingsystem\beerparlourbillingsystem\obj\x86\Debug\beerparlourbillingsystem.vbproj.GenerateResource.Cache
+F:\Sem.4\extra vs code\beerparlourbillingsystem\beerparlourbillingsystem\bin\Debug\beerparlourbillingsystem.exe
+F:\Sem.4\extra vs code\beerparlourbillingsystem\beerparlourbillingsystem\bin\Debug\beerparlourbillingsystem.pdb
+F:\Sem.4\extra vs code\beerparlourbillingsystem\beerparlourbillingsystem\bin\Debug\beerparlourbillingsystem.xml
+F:\Sem.4\extra vs code\beerparlourbillingsystem\beerparlourbillingsystem\obj\x86\Debug\beerparlourbillingsystem.Database.resources
+F:\Sem.4\extra vs code\beerparlourbillingsystem\beerparlourbillingsystem\obj\x86\Debug\beerparlourbillingsystem.adduser.resources
+F:\Sem.4\extra vs code\beerparlourbillingsystem\beerparlourbillingsystem\obj\x86\Debug\beerparlourbillingsystem.addproduct.resources
+F:\Sem.4\extra vs code\beerparlourbillingsystem\beerparlourbillingsystem\obj\x86\Debug\beerparlourbillingsystem.billing.resources
+F:\Sem.4\extra vs code\beerparlourbillingsystem\beerparlourbillingsystem\obj\x86\Debug\beerparlourbillingsystem.Login.resources
+F:\Sem.4\extra vs code\beerparlourbillingsystem\beerparlourbillingsystem\obj\x86\Debug\beerparlourbillingsystem.Splashscreen.resources
+F:\Sem.4\extra vs code\beerparlourbillingsystem\beerparlourbillingsystem\obj\x86\Debug\beerparlourbillingsystem.main.resources
+F:\Sem.4\extra vs code\beerparlourbillingsystem\beerparlourbillingsystem\obj\x86\Debug\beerparlourbillingsystem.Resources.resources
+F:\Sem.4\extra vs code\beerparlourbillingsystem\beerparlourbillingsystem\obj\x86\Debug\beerparlourbillingsystem.receipt.resources
+F:\Sem.4\extra vs code\beerparlourbillingsystem\beerparlourbillingsystem\obj\x86\Debug\beerparlourbillingsystem.vbproj.GenerateResource.Cache
+F:\Sem.4\extra vs code\beerparlourbillingsystem\beerparlourbillingsystem\obj\x86\Debug\beerparlourbillingsystem.vbproj.CoreCompileInputs.cache
+F:\Sem.4\extra vs code\beerparlourbillingsystem\beerparlourbillingsystem\obj\x86\Debug\beerparlourbillingsystem.exe
+F:\Sem.4\extra vs code\beerparlourbillingsystem\beerparlourbillingsystem\obj\x86\Debug\beerparlourbillingsystem.xml
+F:\Sem.4\extra vs code\beerparlourbillingsystem\beerparlourbillingsystem\obj\x86\Debug\beerparlourbillingsystem.pdb
+F:\Sem.4\extra vs code\beerparlourbillingsystem\beerparlourbillingsystem\obj\x86\Debug\beerparlourbillingsystem.vbprojResolveAssemblyReference.cache
+C:\Users\rockstar thrishul\Desktop\project file\New folder (3)\BeerParlourBillingSystem_VBNET\beerparlourbillingsystem\beerparlourbillingsystem\obj\x86\Debug\beerparlourbillingsystem.exe
+C:\Users\rockstar thrishul\Desktop\project file\New folder (3)\BeerParlourBillingSystem_VBNET\beerparlourbillingsystem\beerparlourbillingsystem\obj\x86\Debug\beerparlourbillingsystem.xml
+C:\Users\rockstar thrishul\Desktop\project file\New folder (3)\BeerParlourBillingSystem_VBNET\beerparlourbillingsystem\beerparlourbillingsystem\obj\x86\Debug\beerparlourbillingsystem.pdb
+D:\TJBAR_RESTAURANT\TJBAR_RESTAURANT\TJBAR_RESTAURANT\beerparlourbillingsystem\obj\x86\Debug\beerparlourbillingsystem.exe
+D:\TJBAR_RESTAURANT\TJBAR_RESTAURANT\TJBAR_RESTAURANT\beerparlourbillingsystem\obj\x86\Debug\beerparlourbillingsystem.xml
+D:\TJBAR_RESTAURANT\TJBAR_RESTAURANT\TJBAR_RESTAURANT\beerparlourbillingsystem\obj\x86\Debug\beerparlourbillingsystem.pdb
